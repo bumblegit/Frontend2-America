@@ -25,6 +25,13 @@ header .titular .titulo {
   margin: 0;
   padding: 0;
 }
+header .titular .filtro {
+  color: #22bce0;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+}
 header .usuario .avatar img {
   border-radius: 50%;
   width: 50px;
